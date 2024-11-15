@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "efb00474e7e1c46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "73d86ab3e2421332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e377a087f5366b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 A Fiery Passage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd38294086a26d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fb4a582f0f895f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e429d377be3a26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "472f88b9c0d0722d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Frig",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6e32e79a5871291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "84eb18f9595a8eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1de13e891724849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34766a5ee60ea3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gold under Green Hills/Music.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Music"
+            }
+          },
+          {
+            "id": "98257dfd3d2ef28c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gold under Green Hills/Music.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Music"
+            }
+          },
+          {
+            "id": "8521080a881cc4d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14b0156987d8f13a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gold under Green Hills/Music.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Music"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e377a087f5366b19",
+  "lastOpenFiles": [
+    "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
+    "Gold under Green Hills/Misc/The Village Merchant.md",
+    "Gold under Green Hills/Main Quest/Act 1/1. Arrival in Mirthvale.md",
+    "Campaign Notes.md",
+    "Gold under Green Hills/Characters/Fenwick, The Village Merchant.md",
+    "Gold under Green Hills/Characters/Lady Tova, Village Elder of Mirthvale.md",
+    "Gold under Green Hills/Characters/Hrafnoth, The Ancient.md",
+    "Gold under Green Hills/Characters/Captain Mimsy.md",
+    "Gold under Green Hills/Characters/Bertram, The Innkeeper.md",
+    "Resources/Images/Characters/Pasted image 20241115102531.png",
+    "Resources/Images/Characters/Pasted image 20241113160607.png",
+    "Resources/Images/Characters/Pasted image 20241112191018.png",
+    "Resources/Images/Characters/Bertram.png",
+    "Gold under Green Hills/Main Quest/Act 1/0. Hrafnoth's Wrath.md",
+    "Gold under Green Hills/Status/Frightened.md",
+    "Gold under Green Hills/Enemies/Blister Wraiths.md",
+    "Gold under Green Hills/Dungeons/3. The Great City of Dûrlun.md",
+    "Gold under Green Hills/Main Quest/Act 1/2. On the Road to Dûrlun.md",
+    "Gold under Green Hills/Misc",
+    "Items/Bag of Tricks.md",
+    "Items/Deck of Many Things.md",
+    "Gold under Green Hills/Enemies/Magma Golems.md",
+    "Items/Hammer of the Hearthforge.md",
+    "Gold under Green Hills/Enemies/Fallen Guardian.md",
+    "Gold under Green Hills/Enemies/Gnomes/Gnome.md",
+    "Locations/The Great City of Dûrlun.md",
+    "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
+    "Gold under Green Hills/Status/Concentration.md",
+    "Gold under Green Hills/Status",
+    "Gold under Green Hills/Enemies/The Smith.md",
+    "Gold under Green Hills/Enemies/Goblins/Goblin Ashlord Profile.md",
+    "Gold under Green Hills/Enemies/Goblins/Goblin.md",
+    "Gold under Green Hills/Enemies/Gnomes",
+    "Gold under Green Hills/Enemies/Goblins",
+    "Resources/Images/Locations/Dûrlun/Main Entrance.png",
+    "Resources/Images/Locations/Dûrlun/A  Fiery Passage.png",
+    "Resources/Dungeon Masters Guide.pdf",
+    "Resources/Images/Locations/Dûrlun/Hall of the dwarven lords.png",
+    "Resources/Images/Locations/Dûrlun/Mining Hall.png",
+    "Resources/Images/Characters/Blister Wraiths.png",
+    "Resources/Monster Manual.pdf",
+    "Resources/Hack.zip",
+    "Resources/Monster Manual.zip",
+    "Resources/Images/Characters/Molten Warden.png",
+    "Resources/Images/Enemies",
+    "Gold under Green Hills/Enemies"
+  ]
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
+                "file": "Gold under Green Hills/Enemies/The Smith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 A Fiery Passage"
+              "title": "The Smith"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gold under Green Hills/Music.md"
+                "file": "Gold under Green Hills/Enemies/The Smith.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Music"
+              "title": "Outline of The Smith"
             }
           }
         ]
@@ -159,15 +159,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e377a087f5366b19",
   "lastOpenFiles": [
-    "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
-    "Gold under Green Hills/Misc/The Village Merchant.md",
-    "Gold under Green Hills/Main Quest/Act 1/1. Arrival in Mirthvale.md",
+    "Gold under Green Hills/Enemies/Goblins/Goblin.md",
+    "Gold under Green Hills/Enemies/Goblins/Goblin Ashlord Profile.md",
+    "Gold under Green Hills/Enemies/Blister Wraiths.md",
+    "Gold under Green Hills/Enemies/Magma Golems.md",
+    "Gold under Green Hills/Enemies/Gnomes/Gnome.md",
+    "Gold under Green Hills/Enemies/Fallen Guardian.md",
+    "Gold under Green Hills/Enemies/The Smith.md",
     "Campaign Notes.md",
+    "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
+    "Gold under Green Hills/Main Quest/Act 1/2. On the Road to Dûrlun.md",
+    "Items/Bag of Tricks.md",
+    "Items/Deck of Many Things.md",
+    "Gold under Green Hills/Misc/The Village Merchant.md",
+    "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
+    "Gold under Green Hills/Main Quest/Act 1/1. Arrival in Mirthvale.md",
     "Gold under Green Hills/Characters/Fenwick, The Village Merchant.md",
     "Gold under Green Hills/Characters/Lady Tova, Village Elder of Mirthvale.md",
     "Gold under Green Hills/Characters/Hrafnoth, The Ancient.md",
@@ -179,23 +191,12 @@
     "Resources/Images/Characters/Bertram.png",
     "Gold under Green Hills/Main Quest/Act 1/0. Hrafnoth's Wrath.md",
     "Gold under Green Hills/Status/Frightened.md",
-    "Gold under Green Hills/Enemies/Blister Wraiths.md",
     "Gold under Green Hills/Dungeons/3. The Great City of Dûrlun.md",
-    "Gold under Green Hills/Main Quest/Act 1/2. On the Road to Dûrlun.md",
     "Gold under Green Hills/Misc",
-    "Items/Bag of Tricks.md",
-    "Items/Deck of Many Things.md",
-    "Gold under Green Hills/Enemies/Magma Golems.md",
     "Items/Hammer of the Hearthforge.md",
-    "Gold under Green Hills/Enemies/Fallen Guardian.md",
-    "Gold under Green Hills/Enemies/Gnomes/Gnome.md",
     "Locations/The Great City of Dûrlun.md",
-    "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
     "Gold under Green Hills/Status/Concentration.md",
     "Gold under Green Hills/Status",
-    "Gold under Green Hills/Enemies/The Smith.md",
-    "Gold under Green Hills/Enemies/Goblins/Goblin Ashlord Profile.md",
-    "Gold under Green Hills/Enemies/Goblins/Goblin.md",
     "Gold under Green Hills/Enemies/Gnomes",
     "Gold under Green Hills/Enemies/Goblins",
     "Resources/Images/Locations/Dûrlun/Main Entrance.png",

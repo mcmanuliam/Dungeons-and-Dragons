@@ -4,7 +4,7 @@
 
 - A patched, faded bag with suspicious stains and a faint smell of something… indescribable.
 - The merchant claims it’s great for “holding all your junk.” 
-- You feel weirdly drawn close to this bag.
+- You feel weirdly drawn to this bag.
 
 **2. Gnome-Crafted Trinkets** _(2 sp each)_
 

@@ -8,6 +8,9 @@
 - **Speed**: 25 ft.
 - **Perception**: 16
 
+- **Resistances**: Fire
+- **Weaknesses**: Water, Ice
+
 ---
 
 - **STR**: 18 (+4)
@@ -35,7 +38,7 @@
 
 - **Abilities**:
     - **Green Flame Strike** (Melee or Ranged Weapon Attack):
-	    - +7 to hit, reach 5 ft. or range 30 ft., one target.
+	    - +7 to hit, reach 5 ft. or range 40 ft., one target.
 	    - _Hit:_ 10 (1d10 + 4) fire damage. The target’s AC is reduced by 1 until the end of the Guardian’s next turn.
 	
 	- **Guardian’s Gaze** (Recharge 5–6):

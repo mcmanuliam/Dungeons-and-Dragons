@@ -40,7 +40,7 @@
     - The gnome deals an extra 3 (1d6) damage when it hits a creature with a melee weapon attack if it has advantage on the attack roll, or if an ally is within 5 feet of the target and isn’t incapacitated.
 
 - **Gnome Toss**:
-	- Two Gnomes coordinate to launch one of their own at a target within 20 feet. The thrown gnome makes a melee attack against the target with advantage, dealing 7 (2d6 + 2) bludgeoning damage on a hit. If the attack misses, the thrown gnome lands prone within 5 feet of the target.
+	- Two Gnomes coordinate to launch one of their own at a target within 30 feet. The thrown gnome makes a melee attack against the target with advantage, dealing 7 (2d6 + 2) bludgeoning damage on a hit. If the attack misses, the thrown gnome lands prone within 5 feet of the target.
 
 - **Back Jumper**:
 	- The gnome jumps onto a creature within 5 feet that is at least one size larger than itself. The target must succeed on a DC 12 Dexterity saving throw or the gnome latches onto its back, grappling it (escape DC 12). While grappled, the target's movement is halved, and the gnome can make a dagger attack as a bonus action each turn.

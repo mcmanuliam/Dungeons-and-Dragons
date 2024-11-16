@@ -8,6 +8,9 @@
 - **Speed**: 30 ft.
 - **Perception**: 12
 
+- **Weakness**: Water, Ice
+- **Resistance**: Fire
+
 ---
 
 - **STR**: 10 (+0)

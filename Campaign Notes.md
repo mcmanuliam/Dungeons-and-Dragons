@@ -25,4 +25,4 @@
 | **Cal**         | Throndor Bluebark  | [View Character Sheet](https://dicecloud.com/character/cayznk7CXjbC5HGus) |
 | **Erin**        | Elaina             | [View Character Sheet](https://dicecloud.com/character/xRiugkQY6jjW2ZnFD) |
 | **Arran**       | Gnorbert Snuggles  | [View Character Sheet](https://dicecloud.com/character/vxNCwLWtsG6qt6oqH) |
-| **Cath**        | Seth Rogan         |                                                                           |
+| **Cath**        | Seth Rogan         | [View Character Sheet](https://dicecloud.com/character/oh9MBbRwsSLjb2uAM) |

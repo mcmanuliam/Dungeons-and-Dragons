@@ -9,6 +9,9 @@ _Encountered in: Deeper into Emberstone Forge_
 - **Speed**: 20 ft.
 - **Perception**: 10
 
+- **Resistances**: Fire
+- **Weakness**: Water, Ice
+
 ---
 
 - **STR**: 18 (+4)

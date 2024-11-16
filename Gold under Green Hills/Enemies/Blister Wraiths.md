@@ -5,9 +5,11 @@ _Encountered in: Emberstone Forge Entrance_
 ---
 
 - **Hit Points**: 35 (6d8+6)
-- **Armor Class**: 12 (resistant to non-magical weapons)
+- **Armor Class**: 12
 - **Speed**: 30 ft., fly 30 ft. (hover)
 - **Perception**: 10
+
+- **Resistance**: Immune to piercing and slashing weapons, Fire
 
 ---
 

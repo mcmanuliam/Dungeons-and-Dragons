@@ -1,7 +1,6 @@
 ---
 
 ---
----
 ### Clues
 ***List all collected and active clues here for quick reference.***
 

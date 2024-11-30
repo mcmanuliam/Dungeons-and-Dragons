@@ -4,8 +4,8 @@ _Encountered in: Deeper into Emberstone Forge_
 
 ---
 
-- **Hit Points**: 30 (4d10+8)
-- **Armor Class**: 14 (molten rock and slag)
+- **Hit Points**: 20 (4d10+8)
+- **Armor Class**: 17 (molten rock and slag)
 - **Speed**: 20 ft.
 - **Perception**: 10
 

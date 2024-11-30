@@ -2,7 +2,7 @@
 
 ---
 
-- **Hit Points**: 7 (2d6)
+- **Hit Points**: 15 (2d6)
 - **Armor Class**: 15 (leather armor, shield)
 - **Speed**: 20 ft
 - **Perception**: 12

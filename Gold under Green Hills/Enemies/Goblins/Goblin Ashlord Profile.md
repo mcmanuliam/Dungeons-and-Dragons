@@ -3,7 +3,7 @@
 
 ---
 
-- **Hit Points**: 45 (7d8+7)
+- **Hit Points**: 26 (7d8+7)
 - **Armor Class**: 10 (natural armor)
 - **Speed**: 30 ft.
 - **Perception**: 12

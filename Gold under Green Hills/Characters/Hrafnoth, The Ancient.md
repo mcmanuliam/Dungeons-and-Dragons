@@ -10,7 +10,7 @@
 **Gender**: Male  
 **Age**: Unknown (likely over 2,000 years old)  
 **Role**: Lurking Terror, Seeker of Wealth  
-**Location**: Graypeak Mountains, near Dûrlun (historically)
+**Location**: Lost Peaks, near Dûrlun (historically)
 
 ## Appearance
 - **Size**: Colossal, with wings that stretch over 200 feet in length when fully unfurled. His body stretches nearly 100 feet from snout to tail.
@@ -31,12 +31,12 @@
 - **Firestorm Breath**: Hrafnoth’s breath weapon is a torrent of molten fire, capable of turning stone to ash. This firestorm can be unleashed in an arc of devastating power, incinerating anything in its path, and leaving behind scorched earth for miles.
 - **Fear Aura**: His presence alone induces a powerful aura of fear, paralyzing weaker creatures in terror. The mere sight of his form can send lesser beings fleeing in panic or cowering at his feet.
 - **Flight & Agility**: Despite his size, Hrafnoth is an agile flier, capable of darting through the skies with terrifying speed. His wings can stir the air with enough force to cause destructive winds and whirlwinds.
-- **Lair Actions**: When within the Graypeak Mountains or his lair, Hrafnoth can manipulate the environment to his advantage. The earth can tremble, stalactites may fall, or the very stone can seem to breathe with his will, reshaping his surroundings for battle.
+- **Lair Actions**: When within the Lost Peaks or his lair, Hrafnoth can manipulate the environment to his advantage. The earth can tremble, stalactites may fall, or the very stone can seem to breathe with his will, reshaping his surroundings for battle.
 - **Legendary Resistance**: Hrafnoth is nearly impervious to magic, with a resistance to spells that attempt to weaken or control him. He can shrug off curses and charms with ease, and magical traps designed to catch him will often backfire.
 
 ## History
-**Hrafnoth** is an ancient dragon whose origins are shrouded in myth. He was first known to the dwarves of Dûrlun centuries ago, when he descended upon the Graypeak Mountains in a blaze of fire and destruction. His attack was swift and devastating, but the dwarves managed to drive him back with a combination of powerful magic and military strength led by the great Duke Orin Grimborn.
+**Hrafnoth** is an ancient dragon whose origins are shrouded in myth. He was first known to the dwarves of Dûrlun centuries ago, when he descended upon the Lost Peaks in a blaze of fire and destruction. His attack was swift and devastating, but the dwarves managed to drive him back with a combination of powerful magic and military strength led by the great Duke Orin Grimborn.
 
 The dragon's greed for Dûrlun’s treasure is legendary, and it is said that he has tried to claim the riches of the mountain city multiple times, each time with disastrous results for those who stood in his way. After the last battle, it was believed that Hrafnoth was mortally wounded and fell into a deep, forgotten cavern beneath the mountains, his body lost to time.
 
-However, whispers persist. Some claim that Hrafnoth survived the battle, retreating into the darkest depths of the mountains to recover his strength. Others say that he has been seen flying over the Graypeak peaks in the last few decades.
+However, whispers persist. Some claim that Hrafnoth survived the battle, retreating into the darkest depths of the mountains to recover his strength. Others say that he has been seen flying over the lost peaks in the last few decades.

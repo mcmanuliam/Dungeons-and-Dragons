@@ -13,7 +13,7 @@
 Over time, it became known for its unrivaled craftsmanship and the legendary wealth mined from the deep veins of gold, gemstones, and other precious metals that run throughout the mountains. Yet, its isolation also serves as protection, allowing it to prosper without interference.
 ## Geography & Architecture
 
-The city is nestled deep within the towering **Graypeak Mountains**, where natural caverns and deep fissures in the stone have been transformed into vast subterranean halls. Some of these grand chambers so large that they can never be filled, with bridges of gleaming emerald stone spanning chasms and statues reaching down bellow where any normal persons vison goes. 
+The city is nestled deep within the towering **Lost Peaks**, where natural caverns and deep fissures in the stone have been transformed into vast subterranean halls. Some of these grand chambers so large that they can never be filled, with bridges of gleaming emerald stone spanning chasms and statues reaching down bellow where any normal persons vison goes. 
 
 Ancient dwarven architecture dominates the landscape, with intricately carved spires and towering fortifications built from the stone itself.
 ## Inhabitants & Culture
@@ -27,7 +27,7 @@ Elves, in particular, are loathed. Ancient conflicts between the elves and dwarv
 
 ## Hrafnoth Troubles
 
-As **Dûrlun**'s wealth has spread far beyond the deep caverns of the **Graypeak Mountains** and into all of **[[Faerûn]]**, it has inevitably attracted the attention of those who covet such riches. It was rumored that **Hrafnoth**, the **dwarven** name given to the beast from "hrafn," meaning raven, and "noth," meaning one who rules, a wyrm from the western lands once descended upon the mountain, laying waste through fire and devastation to thousands of dwarves in an attempt to seize control of the mountain. 
+As **Dûrlun**'s wealth has spread far beyond the deep caverns of the **Lost Peaks** and into all of **[[Faerûn]]**, it has inevitably attracted the attention of those who covet such riches. It was rumored that **Hrafnoth**, the **dwarven** name given to the beast from "hrafn," meaning raven, and "noth," meaning one who rules, a wyrm from the western lands once descended upon the mountain, laying waste through fire and devastation to thousands of dwarves in an attempt to seize control of the mountain. 
 
 The assault was ultimately stopped by **Duke Orin Grimborn**, but whispers speak that the dragon survived—and some even claiming it has been spotted in the skies once more, drawing closer and closer to the city’s ever-growing treasure hoard.
 

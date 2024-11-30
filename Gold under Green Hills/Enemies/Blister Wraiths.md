@@ -4,7 +4,7 @@ _Encountered in: Emberstone Forge Entrance_
 
 ---
 
-- **Hit Points**: 35 (6d8+6)
+- **Hit Points**: 15 (6d8+6)
 - **Armor Class**: 12
 - **Speed**: 30 ft., fly 30 ft. (hover)
 - **Perception**: 10

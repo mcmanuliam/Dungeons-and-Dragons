@@ -26,10 +26,7 @@ The **Hammer of Hearthforge** is a powerful weapon, designed to both protect and
 - **Forge’s Bond**: When used in crafting, the hammer can summon a spectral forge hammer that assists the wielder, reducing crafting time by 25%. This bond is said to channel the spirit of Thranor Flamebound, who guides the wielder's hands, making the hammer a valuable tool for any skilled artisan.
 ### Stats
 - **Type**: Warhammer (melee, versatile)
-- **Damage**: 1d8 bludgeoning (one-handed) or 1d10 bludgeoning (two-handed)
-- **Bonus Fire Damage**: +1d4 fire damage on hit (doesn't change on crit)
-- **Attack Bonus**: +1 to attack and damage rolls
-- **Range**: Melee (5 feet)
+- **Range**: Melee (10 feet)
 
 ---
 
@@ -45,7 +42,6 @@ The **Hammer of Hearthforge** is both a powerful weapon and a tool of healing. W
 **Attack Example**:
 - **Attack Roll**: +1 to hit
 - **Damage on Hit**: 1d8 + Strength modifier bludgeoning (one-handed) or 1d10 + Strength modifier bludgeoning (two-handed), plus 1d6 fire damage.
-- **Critical Hit**: 1d10 extra fire damage
 
 **Rekindle Example**:
 - Once per day, the wielder may use an action to activate Rekindle, creating a warm 10-foot radius where allies regain 2d8 HP. This can be a critical ability when the party needs healing mid-battle or after a long encounter.

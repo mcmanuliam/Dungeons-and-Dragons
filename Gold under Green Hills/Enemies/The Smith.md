@@ -3,8 +3,8 @@
 
 ---
 
-- **Hit Points**: 80 (10d10+20)
-- **Armor Class**: 10 (molten armor)
+- **Hit Points**: 200 (10d10+20)
+- **Armor Class**: 14 (molten armor)
 - **Speed**: 25 ft.
 - **Perception**: 14
 
@@ -29,7 +29,7 @@
 - **Abilities**:
     - **Lava Shockwave** (Recharge 5–6):
         - The Warden slams its warhammer into the ground, sending a wave of molten lava in a 15-foot radius.
-        - Each creature in the area must succeed on a **DC 15 Dexterity saving throw** or take **18 (4d8) fire damage** and be pushed back 10 feet. Creatures that succeed take half damage and are not pushed.
+        - Each creature in the area must succeed on a **DC 15 Dexterity saving throw** or take **(2d8) force damage** and be pushed back 10 feet. Creatures that succeed take half damage and are not pushed.
     
 	- **Molten Armor**:
         - The Warden has **resistance to damage from non-magical weapons**. At the start of each of its turns, the Warden regenerates **10 hit points**, unless it has been doused in water or subjected to cold damage since its last turn.
@@ -40,7 +40,7 @@
 ---
 
 - **Environmental Advantage**:
-    - Players can use a giant hammer lever (Lever 2) to drop on the Warden, dealing **20 points of damage** (25% of its max HP) if timed correctly.
+    - Players can use a giant hammer lever (Lever 2) to drop on the Warden, dealing **50 points of damage** (25% of its max HP) if timed correctly.
 
 ---
 
@@ -52,8 +52,22 @@
 ---
 
 - **Loot**:
-    - **Forge Molds**: Used for crafting advanced armor or weapons.
-    - **Adamantine Bars**: Rare crafting materials suitable for high-quality gear.
-    - **Molten Core Fragment**: A rare material imbued with fire magic, useful for enchanting weapons or armor with fire properties.
+    - **Forge Molds**: Used for crafting advanced armor or weapons. 
+	    - 5 ingots for breastplate /
+	    - 2 for mace /
+	    - 2 for shield /
+	    - 3 for longsword /
+	
+    - **Adamantine Bars**: Rare crafting materials suitable for high-quality gear. - 5 - 7
 
-4o
+    - **Molten Core Fragment**: A rare material imbued with fire magic, useful for enchanting weapons or armor with fire properties.  - 
+
+**Initiative order**
+
+3. Cal - 19
+2. Erin - 16
+2. Joe - 3
+5. Matthew - 20
+6. Taylor - 19
+7. Finn - 16
+9. Cath - 16

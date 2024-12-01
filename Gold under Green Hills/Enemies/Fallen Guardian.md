@@ -4,7 +4,7 @@
 ---
 
 - **Hit Points**: 100 (15d10+45)
-- **Armor Class**: 14 (molten armor)
+- **Armor Class**: 16 (molten armor)
 - **Speed**: 25 ft.
 - **Perception**: 16
 

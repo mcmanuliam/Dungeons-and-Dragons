@@ -1,4 +1,4 @@
-This file will dictate the main story line throughout with all the main plot points, these may differ during the story but everything should hopefully tie back and finish off at the same point.
+zThis file will dictate the main story line throughout with all the main plot points, these may differ during the story but everything should hopefully tie back and finish off at the same point.
 
 # Act 1
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Flammskrýfa.md",
+                "file": "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flammskrýfa"
+              "title": "Mirthy Merchants (Public Side)"
             }
           },
           {
@@ -61,8 +61,7 @@
               "title": "Hammer of the Hearthforge"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Hammer of the Hearthforge.md"
+                "file": "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hammer of the Hearthforge"
+              "title": "Outline of Mirthy Merchants (Public Side)"
             }
           }
         ]
@@ -205,47 +204,48 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8e429d377be3a26",
+  "active": "daf00b039ef9a6f9",
   "lastOpenFiles": [
-    "Resources/Images/Locations/Dûrlun/A  Fiery Passage.png",
-    "Items/Hammer of the Hearthforge.md",
-    "DALL·E 2024-11-30 17.51.53 - A circular gothic room with high, arched ceilings and intricate stone carvings. The room features luxurious furniture including a dark velvet armchair.webp",
+    "Gold under Green Hills/Misc/The Village Merchant.md",
+    "Gold under Green Hills/Misc/The Wandering Puddle (Public Side).md",
     "Gold under Green Hills/Enemies/Fallen Guardian.md",
+    "Items/Hammer of the Hearthforge.md",
+    "Gold under Green Hills/Misc/Spaggle.md",
+    "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
+    "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
+    "Gold under Green Hills/Status/Concentration.md",
+    "Gold under Green Hills/Status/Frightened.md",
+    "Gold under Green Hills/Music.md",
+    "Items/Bag of Tricks.md",
+    "Items/Deck of Many Things.md",
+    "Items/Flammskrýfa.md",
+    "Locations/Faerûn.md",
+    "Locations/Mirthvale.md",
+    "Locations/The Great City of Dûrlun.md",
+    "Resources/Images/Locations/Mirthvale.png",
+    "Resources/Images/Locations/Forest.png",
+    "Resources/Images/Locations/Dûrlun/Hall of the dwarven lords.png",
+    "Resources/Images/Locations/Dûrlun/A  Fiery Passage.png",
     "Gold under Green Hills/Dungeons/3. The Great City of Dûrlun.md",
+    "DALL·E 2024-11-30 17.51.53 - A circular gothic room with high, arched ceilings and intricate stone carvings. The room features luxurious furniture including a dark velvet armchair.webp",
     "Gold under Green Hills/Enemies/The Smith.md",
     "Resources/Images/Characters/Raphael/Raphel.png",
     "Resources/Images/Characters/Raphael/Raphael.jpeg",
     "Campaign Notes.md",
-    "Items/Flammskrýfa.md",
     "Resources/Images/Characters/Molten Warden.png",
-    "Gold under Green Hills/Side Quests/1.3 A Fiery Passage.md",
     "Gold under Green Hills/Main Quest/Main Quest.md",
     "Resources/Images/Items/Flammskrýfa.png",
-    "Gold under Green Hills/Misc/The Wandering Puddle (Public Side).md",
     "Resources/Images/Locations/Dûrlun/Mining Hall.png",
-    "Resources/Images/Locations/Dûrlun/Main Entrance.png",
-    "Resources/Images/Locations/Dûrlun/Hall of the dwarven lords.png",
-    "Resources/Images/Characters/Pasted image 20241115102531.png",
-    "Gold under Green Hills/Misc/Spaggle.md",
     "Resources/Images/Characters/Raphael",
-    "Items/Deck of Many Things.md",
     "Gold under Green Hills/Main Quest/Act 2/1. Return to Mirthvale.md",
     "Gold under Green Hills/Main Quest/Act 1/1. Arrival in Mirthvale.md",
-    "Gold under Green Hills/Misc/Mirthy Merchants (Public Side).md",
-    "Gold under Green Hills/Misc/The Village Merchant.md",
     "Gold under Green Hills/Enemies/Magma Golems.md",
     "Resources/Dungeon Masters Guide.pdf",
     "Gold under Green Hills/Enemies/Blister Wraiths.md",
-    "Locations/Faerûn.md",
     "Gold under Green Hills/Main Quest/Act 1/2. On the Road to Dûrlun.md",
     "Gold under Green Hills/Main Quest/Act 1/0. Hrafnoth's Wrath.md",
-    "Imported Resources/Spells.md",
-    "Imported Resources/Monsters.md",
-    "Imported Resources/Weapons.md",
     "Imported Resources",
     "Gold under Green Hills/Main Quest/Act 2",
-    "Locations/The Great City of Dûrlun.md",
-    "Gold under Green Hills/Enemies/Gnomes/Gnome.md",
     "Gold under Green Hills/Misc",
     "Gold under Green Hills/Status",
     "Gold under Green Hills/Enemies/Gnomes",

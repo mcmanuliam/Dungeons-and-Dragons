@@ -3,13 +3,13 @@
 
 ---
 
-- **Hit Points**: 100 (15d10+45)
+- **Hit Points**: 150
 - **Armor Class**: 16 (molten armor)
 - **Speed**: 25 ft.
 - **Perception**: 16
 
 - **Resistances**: Fire
-- **Weaknesses**: Water, Ice
+- **Weaknesses**: Water
 
 ---
 
